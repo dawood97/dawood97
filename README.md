@@ -15,7 +15,7 @@
 ### **🛠 Tech Stack**  
 | **Frontend** | **Backend** | **Tools & Others** |  
 |--------------|------------|------------------|  
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma) |  
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma) |  
 
 ### **📌 Featured Projects**  
 🔹 **[ERP Solution]** – Streamlined business operations with React & Redux-Saga.  
@@ -40,7 +40,7 @@
 ## **🛠 Tech Stack**  
 | **Frontend** | **Backend** | **Tools** |  
 |--------------|------------|----------|  
-| React, Redux-Saga, Formik | Node.js, PostgreSQL | Git, Jira, Figma |  
+| React, Redux-Saga, Formik | Python, PostgreSQL | Git, Jira, Figma |  
 
 ## **✨ Key Features**  
 ✔ **Employee Management** – Onboarding, attendance tracking.  
